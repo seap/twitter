@@ -1,0 +1,19 @@
+.item {
+  border-bottom: 1PX solid #e8e8e8;
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  .icon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+      width: 80px;
+    }
+  }
+  .content {
+    flex: 1;
+  }
+}

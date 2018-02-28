@@ -1,0 +1,35 @@
+.am-checkbox-inner {
+    border-radius: 10% !important;
+    transform: scale(0.8) !important;
+}
+
+.am-checkbox-agree .am-checkbox-inner {
+    background-color: #fff;
+}
+
+.am-checkbox.am-checkbox-checked .am-checkbox-inner {
+    background-color: #ff7330 !important;
+    border-color: #ff7330 !important;
+}
+
+.am-modal-button-group-v .am-modal-button {
+    font-size: 36px !important;
+    color: #121212 !important;
+}
+
+.am-modal-title {
+    font-size: 32px !important;
+    color: #121212 !important;
+}
+
+.am-modal-alert-content {
+    font-size: 30px !important;
+    color: #666 !important;
+}
+
+.am-accordion-header {
+    font-size: 0.38rem !important;
+}
+.am-accordion-content-box {
+    line-height: 0.6rem !important;
+}
