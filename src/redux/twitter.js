@@ -10,7 +10,7 @@ import {
   getClient,
   invokeWxPayment
 } from '../common/util'
-const TWITTER_SERVICE = 'https://seayang.me/service/twitter'
+const TWITTER_SERVICE = '//seayang.me/service/twitter'
 // action types
 const FETCH_TOKEN_SUCCESS = 'twitter:FETCH_TOKEN_SUCCESS'
 const FETCH_TIMELINE_SUCCESS = 'twitter:FETCH_TIMELINE_SUCCESS'
